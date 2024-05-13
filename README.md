@@ -6,3 +6,5 @@ what I have done:
 2. Researched the heat distribution of a given area (beach) under a changing boundary condition based on mathematical theories and found the analytical solutions 
 3. Plotted the heat distribution results under different terrains in python based on numerical iterations 
 4. Compared two distribution results with the heat distribution in the actual situation and conducted critical evaluations 
+
+The codes and report are private. For access please email: zxy2394028190@outlook.com
